@@ -1,0 +1,2 @@
+# withoutgit-
+project without cloning
